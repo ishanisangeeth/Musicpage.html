@@ -1,0 +1,15 @@
+text=("today is  tuesday")
+string=len(text)
+print(string)
+object=text.upper()
+print(object)
+number=text.index("d")
+print(number)
+one=text[-3:]
+print(one)
+checking=text.islower()
+print(checking)
+book=text.count(" ")
+print(book)
+
+print()
